@@ -1,4 +1,4 @@
-Docker: the container engine [![Release](https://img.shields.io/github/release/docker/docker.svg)](https://github.com/docker/docker/releases/latest)
+Docker: the container engine [![Release](https://img.shields.io/github/release/docker/docker.svg)](https://github.com/docker/docker/releases/latest).
 ============================
 
 Docker is an open source project to pack, ship and run any application
